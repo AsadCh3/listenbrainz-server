@@ -1,0 +1,54 @@
+[
+  {
+    "user_id": 1,
+    "year": 2017
+  },
+  {
+    "user_id": 1,
+    "year": 2017
+  },
+  {
+    "user_id": 1,
+    "year": 2017
+  },
+  {
+    "user_id": 2,
+    "year": 2017
+  },
+  {
+    "user_id": 1,
+    "year": 2018
+  },
+  {
+    "user_id": 2,
+    "year": 2018
+  },
+  {
+    "user_id": 2,
+    "year": 2018
+  },
+  {
+    "user_id": 3,
+    "year": 2018
+  },
+  {
+    "user_id": 2,
+    "year": 2019
+  },
+  {
+    "user_id": 3,
+    "year": 2019
+  },
+  {
+    "user_id": 3,
+    "year": 2019
+  },
+  {
+    "user_id": 1,
+    "year": 2020
+  },
+  {
+    "user_id": 2,
+    "year": 2020
+  }
+]
